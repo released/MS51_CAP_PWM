@@ -9,11 +9,15 @@ update @ 2022/03/01
 
 3. below is CAPTURE log , with PWM at FREQ 1000 / 250 / 80 , when duty is 75 , 60 , 20
 
+Freq : 1000Hz
+
 ![image](https://github.com/released/MS51_CAP_PWM/blob/main/freq_1k.jpg)
 
+Freq : 250Hz
 
 ![image](https://github.com/released/MS51_CAP_PWM/blob/main/freq_250.jpg)
 
+Freq : 80Hz
 
 ![image](https://github.com/released/MS51_CAP_PWM/blob/main/freq_80.jpg)
 
